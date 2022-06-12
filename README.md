@@ -7,3 +7,18 @@ All layers will use the ReLU activation function and the He weight initializatio
 And then we convert the model to tensorflow lite format, so its can deploy on Android Apps.
 
 We also test that tensorflow lite model, and get 90% accuracy
+
+In the dataset, we distinguish between the following clothing objects:
+
+T-shirt/Top
+Trousers
+Pullover
+Dress
+Coat
+Sandal
+Shirt
+Sneaker
+Bag
+Ankle Boot
+
+
