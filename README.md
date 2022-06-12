@@ -10,15 +10,15 @@ We also test that tensorflow lite model, and get 90% accuracy
 
 In the dataset, we distinguish between the following clothing objects:
 
-T-shirt/Top
-Trousers
-Pullover
-Dress
-Coat
-Sandal
-Shirt
-Sneaker
-Bag
-Ankle Boot
+1.  T-shirt/Top
+2.  Trousers
+3.  Pullover
+4.  Dress
+5.  Coat
+6.  Sandal
+7.  Shirt
+8.  Sneaker
+9.  Bag
+10. Ankle Boot
 
 
